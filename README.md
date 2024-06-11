@@ -1,2 +1,2 @@
 # Legends_Match
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+<img src="[image.png](https://i.imgur.com/imLnd4l.png)" width="200" height="100">
