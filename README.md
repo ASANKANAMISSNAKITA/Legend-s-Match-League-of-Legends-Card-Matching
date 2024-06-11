@@ -1,2 +1,4 @@
 # Legends_Match
-<img src="https://i.imgur.com/imLnd4l.png" width="200" height="100">
+<center>
+  <img src="https://i.imgur.com/imLnd4l.png" width="370" height="710">
+</center>
